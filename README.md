@@ -37,5 +37,5 @@ Notebook：用 Jupyter 開啟 `report.ipynb`。
 
 ## 5. 部署
 
-- GitHub repo：_待填_
-- Streamlit Cloud：_待填_
+- GitHub repo：https://github.com/ireneho3507/week12_hw
+- Streamlit Cloud：_待部署後填入_
