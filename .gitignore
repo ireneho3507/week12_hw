@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+.env
+.venv/
+venv/
+
+# 個人筆記，不繳交
+PROGRESS.md
